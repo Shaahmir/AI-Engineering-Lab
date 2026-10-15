@@ -1,0 +1,11 @@
+[project]
+name = "inference-on-modal"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "modal>=1.5.4",
+    "requests>=2.34.2",
+]
